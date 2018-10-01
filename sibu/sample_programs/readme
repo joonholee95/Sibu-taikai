@@ -1,0 +1,7 @@
+MakeSynthSeries.py: 人工時系列データを生成
+train.py: ニューラルネットワークを学習
+test.py: 学習したニューラルネットワークを使ってテスト
+
+SimpleCooc1dNet.py: 簡単なニューラルネットワークの構造を記述したファイル
+CooccurrenceLayer.py: オリジナルの共起性検出layer
+Utilities.py: その他の関数
